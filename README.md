@@ -1,9 +1,9 @@
 # praktikum5
 
-## soal1 = susun algoritma utk menginput bilangan sebanyak-banyaknya sampai kondisi yang diinput adalah angka 0.
+**soal1 = susun algoritma utk menginput bilangan sebanyak-banyaknya sampai kondisi yang diinput adalah angka 0.**
 
 berikut adalah programnya :
-
+````
 {
 
 int a,max=0;
@@ -18,11 +18,16 @@ cout <<max;
 return 0 ;
 
 }
-
-###Hasilnya :
+````
+**Hasilnya** :
 ![img]https://raw.githubusercontent.com/RAIS14/praktikum5/master/hasil_soal1.png
 
-#### soal2 = program operator OR dengan menginputkan 3 bilangan.
+**flowchart nya:**
+![img]https://raw.githubusercontent.com/RAIS14/praktikum5/master/flowchart_soal.1.jpg
+
+
+**soal2 = program operator OR dengan menginputkan 3 bilangan.**
+````
     berikut ini adalah penjelasannya :
     operator OR (||) digunakan untuk menggabungkan dua atau lebih pernyataan untuk mendapatkan hasil rasional tunggal.
     pertama inputkan 3 buah bilangan :
@@ -45,8 +50,10 @@ return 0 ;
     true(1)     false(0)     true(1)
     false(0)    true(1)      true(1)
     false(0)    false(0)     false(0)
+````
     
-    Berikut ini adalah programnya
+    **Berikut ini adalah programnya**
+````
     {
         int a,b,c,d,e,f,g;
         cout<<"masukan bilangan 1 : ";cin>>a;
@@ -66,6 +73,10 @@ return 0 ;
         
         return 0 ;
      }
+````
      
-     ini hasilnya :
+     **ini hasilnya** :
      ![img]https://raw.githubusercontent.com/RAIS14/praktikum5/master/hasil_soal2.png
+
+**flowchartnya**:
+![img]https://raw.githubusercontent.com/RAIS14/praktikum5/master/flowchart_soal2.jpg
