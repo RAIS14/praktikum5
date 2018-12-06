@@ -52,7 +52,7 @@ return 0 ;
     false(0)    false(0)     false(0)
 ````
     
-    **Berikut ini adalah programnya**
+**Berikut ini adalah programnya**
 ````
     {
         int a,b,c,d,e,f,g;
@@ -74,8 +74,9 @@ return 0 ;
         return 0 ;
      }
 ````
+
      
-     **ini hasilnya** :
+**ini hasilnya** :
      ![img]https://raw.githubusercontent.com/RAIS14/praktikum5/master/hasil_soal2.png
 
 **flowchartnya**:
